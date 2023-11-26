@@ -1,1 +1,1 @@
-# Type-Script
+# Basic Understanding about Typescript
